@@ -50,7 +50,7 @@ Unha vez que os contenedores estean en marcha, podes acceder á aplicación web 
 ## Uso
 
 > *EXPLICACIÓN*: É este apartado describe brevemente como se usará a aplicación Web do proxecto. Describe o uso da interface web *só o uso** (a modo de sumario) *dos aspectos máis relevantes do seu funcionamento** (máxima brevidade, coma se fose un anuncio reclamo ou comercial).
-
+>
 Para usar a aplicación, os usuarios deben navegar ata a páxina principal onde verán unha lista de xogos dispoñibles. Poden elixir un xogo para xogar e, unha vez que o xogo se carga, recibirán instrucións sobre como xogar. Se o usuario está rexistrado e iniciou sesión, as súas puntuacións serán gardadas e poderán ver as súas puntuacións máximas en cada xogo. Tamén poderán ver unha táboa de clasificación global para cada xogo, onde poderán competir coas puntuacións máximas doutros usuarios. Se o usuario non está rexistrado ou non iniciou sesión, aínda poderán xogar aos xogos, pero as súas puntuacións non serán gardadas.
 
 ## Sobre o autor
