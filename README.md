@@ -31,7 +31,8 @@ Este proxecto é unha páxina web de minixogos, un lugar onde os xogadores poden
 ## Instalación / Posta en marcha
 
 > *EXPLICACIÓN*: Neste apartado describe con toda precisión e a poder ser coa maior simplicidade/facilidade posible, como poñer en marcha a túa aplicación para probala (nun ambiente local). Valorarase moi positivamente que este proceso sexa o máis fácil posible, cunha simple instrución (p. e. un script de instalación, descarga e posta en marcha dun contedor,...).
-> Para poñer en marcha a aplicación, necesitarás ter instalado Docker e Docker Compose no teu sistema. Unha vez instalados, segue os seguintes pasos:
+
+Para poñer en marcha a aplicación, necesitarás ter instalado Docker e Docker Compose no teu sistema. Unha vez instalados, segue os seguintes pasos:
 
 1. Clona o repositorio do proxecto no teu sistema local usando Git.
 2. Navega ata o directorio do proxecto.
