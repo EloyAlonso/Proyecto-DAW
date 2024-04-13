@@ -204,26 +204,26 @@ Para desenvolver o proxecto, necesitaremos os seguintes medios materiais e tecno
 >
 > Debe facerse un calendario ou un diagrama de Gantt indicando, para cada fase, a data de inicio, a súa duración e breve descrición das tarefas a realizar.
 
-A continuación, presentamos un calendario estimado para cada fase del proyecto:
+A continuación, presentamos un calendario estimado para cada fase do proxecto:
 
 - **Estudo preliminar:** 
   - Data de inicio: 1 de marzo
   - Duración: 2 semanas
-  - Tarefas: Investigación de mercado, definición de objetivos y alcance del proyecto, identificación de tecnologías y herramientas necesarias.
+  - Tarefas: Investigación de mercado, definición de objetivos e alcance do proxecto, identificación de tecnoloxías e ferramentas necesarias.
 
 - **Análise:** 
   - Data de inicio: 15 de marzo
   - Duración: 3 semanas
-  - Tarefas: Análisis de requisitos, definición de funcionalidades, diseño de la arquitectura del sistema.
+  - Tarefas: Análisis de requisitos, definición de funcionalidades, deseño da arquitectura do sistema.
 
 - **Deseño:** 
   - Data de inicio: 5 de abril
   - Duración: 3 semanas
-  - Tarefas: Diseño de interfaces de usuario, diseño de base de datos, diseño de componentes y módulos del sistema.
+  - Tarefas: Deseño de interfaces de usuario, deseño de base de datos, deseño de componentes e módulos do sistema.
 
 - **Codificación e probas:** 
   - Data de inicio: 26 de abril
   - Duración: 8 semanas
-  - Tarefas: Codificación de las funcionalidades, pruebas unitarias, pruebas de integración, pruebas de sistema, pruebas de aceptación.
+  - Tarefas: Codificación das funcionalidades, pruebas unitarias, pruebas de integración, pruebas de sistema, pruebas de aceptación.
 
-Por favor, tenga en cuenta que estas fechas son estimaciones y pueden variar dependiendo de diversos factores como la complejidad de las tareas, los imprevistos que puedan surgir, entre otros.
+Por favor, tenga en cuenta que estas fechas son estimaciones e poden variar dependiendo de diversos factores como a complexidade das tareas, os imprevistos que poidan surxir, entre outros.
