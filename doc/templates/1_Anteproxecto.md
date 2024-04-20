@@ -32,7 +32,7 @@
 > - ¿O desenvolvemento da aplicación abre unha oportunidade de negocio? ¿É posible comercializala? Como?
 > - ¿Que tecnoloxías son as máis axeitadas para a realización do proxecto?
 
-O noso proxecto consiste na creación dunha plataforma web de minixogos. O propósito principal é proporcionar un espazo onde calquera persoa poida xogar a estes minixogos. Ademais, se os usuarios deciden rexistrarse, poderán competir polas puntuacións máis altas.
+O noso proxecto consiste na creación dunha plataforma web de minixogos (os minixogos serán propios da paxina). O propósito principal é proporcionar un espazo onde calquera persoa poida xogar a estes minixogos. Ademais, se os usuarios deciden rexistrarse, poderán competir polas puntuacións máis altas.
 
 A aplicación está destinada a todo tipo de persoas que disfruten dos xogos en liña, independentemente da súa idade ou coñecementos técnicos. Pretendemos cubrir a necesidade de entretemento e competición en liña.
 
@@ -173,8 +173,6 @@ En canto a produtos ou servizos substitutivos, estes poderían incluír outras f
 > - **Infraestructura:** dominio web, servidor web dedicado, servidor de base de datos, almacenamento, memoria, ...
 > - **Backend:** tecnoloxías usadas.
 > - **Frontend:** tecnoloxías usadas
-
-### 4- Requirimentos
 
 Para desenvolver o proxecto, necesitaremos os seguintes medios materiais e tecnoloxías:
 
