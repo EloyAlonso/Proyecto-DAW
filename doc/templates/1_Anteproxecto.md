@@ -2,194 +2,236 @@
 
 - [Anteproxecto fin de ciclo](#anteproxecto-fin-de-ciclo)
   - [1- Descrición do proxecto](#1--descrición-do-proxecto)
-  - [2- Xustificación do proxecto](#2--xustificación-do-proxecto)
-  - [3- Axudas e financiación](#3--axudas-e-financiación)
-  - [4- Prevención de riesgos laborales](#4--prevención-de-riesgos-laborales)
-  - [3- Modelo de negocio](#3--modelo-de-negocio)
-    - [3.1- Viabilidade](#31--viabilidade)
-      - [3.1.1- Viabilidade técnica](#311--viabilidade-técnica)
-      - [3.1.2- Viabilidade económica](#312--viabilidade-económica)
-    - [3.2- Competencia](#32--competencia)
-    - [3.3- Promoción](#33--promoción)
-  - [4- Requirimentos](#4--requirimentos)
-  - [5- Planificación](#5--planificación)
+  - [2- Empresa](#2--empresa)
+    - [2.1- Idea de negocio](#21--idea-de-negocio)
+    - [2.2- Xustificación da idea](#22--xustificación-da-idea)
+    - [2.3- Segmento de clientes](#23--segmento-de-clientes)
+    - [2.4- Competencia](#24--competencia)
+    - [2.5- Proposta de valor](#25--proposta-de-valor)
+    - [2.6- Forma xurídica](#26--forma-xurídica)
+    - [2.7- Investimentos](#27--investimentos)
+      - [2.7.1- Custos](#271--custos)
+      - [2.7.2- Ingresos](#272--ingresos)
+    - [2.8- Viabilidade](#28--viabilidade)
+      - [2.8.1- Viabilidade técnica](#281--viabilidade-técnica)
+      - [2.8.2 - Viabilidade económica](#282---viabilidade-económica)
+      - [2.8.3- Conclusión](#283--conclusión)
+  - [3- Requirimentos técnicos](#3--requirimentos-técnicos)
+  - [4- Planificación](#4--planificación)
 
 
 > *EXPLICACIÓN*: Este documento será a páxina de explicación de en que consiste o teu proxecto. Coida a súa redacción con todo ou teu mimo. Elimina posteriormente todas as lineas "EXPLICACIÓN" cando creas finalizada a súa redacción.
 > Podes acompañar á redacción deste ficheiro con imaxes, pero non abuses deles.
 > Explica da mellor forma posible de en que consiste o proxecto é que ferramentas e linguaxes de programación empregarás.
 
-## 1- Descrición do proxecto
+Nuestro proyecto consiste en la creación de una plataforma web de minijuegos (los minijuegos serán propios de la página). El propósito principal es proporcionar un espacio donde cualquier persona pueda jugar a estos minijuegos. Además, si los usuarios deciden registrarse, podrán competir por las puntuaciones más altas.
 
-> *EXPLICACIÓN*: Realiza unha breve descrición do anteproxecto.Resalta o fundamental *coas túas propias palabras**. Utiliza unha linguaxe correcta, *pero natural**, que o entenda todo o mundo, mesmo e en especial, as persoas que non teñan un coñecemento técnico avanzado. Pode ser un estracto ou resumo de apartados que xa contemples noutros ficheiros.
+La aplicación está destinada a todo tipo de personas que disfruten de los juegos, independientemente de su edad o conocimientos técnicos. Pretendemos cubrir la necesidad de entretenimiento y competición en línea.
+
+Actualmente existen varias plataformas que ofrecen juegos en línea, pero nuestra propuesta es diferenciarse ofreciendo una experiencia de usuario más competitiva y social. Destacamos por hacer pagos en criptomonedas a los mejores jugadores.
+
+Vemos una oportunidad de negocio en el desarrollo de esta aplicación, ya que podríamos monetizarla a través de publicidad o mediante la venta de mejoras o ventajas para los usuarios registrados. Además, tenemos la idea de recompensar a los mejores jugadores con un pago mensual por mantener la mayor puntuación en un juego específico.
+
+En cuanto a las tecnologías, decidimos usar PHP para el backend y JavaScript para el frontend, ya que son lenguajes ampliamente utilizados y soportados, y proporcionan todas las funcionalidades que necesitamos para nuestro proyecto.
+
+## 2- Empresa
+
+> _EXPLICACIÓN_: Neste apartado desenvolveredes todo o referente os módulos de Empresa e iniciativa emprendedora e de FOL.
+
+### 2.1- Idea de negocio
+
+Nuestro producto central es una plataforma web de minijuegos, donde los usuarios pueden jugar a una variedad de juegos divertidos y adictivos. El valor añadido de nuestra plataforma es la posibilidad de competir por las puntuaciones más altas y ganar recompensas. Además, ofrecemos la opción de realizar pagos en criptomonedas a los mejores jugadores, lo que aumenta la emoción y la competitividad del juego. Nuestra plataforma también proporcionará una experiencia social, permitiendo a los usuarios interactuar entre sí a través tablas de clasificación. En resumen, nuestro producto ofrece entretenimiento, competición y recompensas, todo en un solo lugar.
+
+### 2.2- Xustificación da idea
+
+Nuestro proyecto surge de la necesidad de proporcionar un espacio en línea donde las personas puedan disfrutar de minijuegos divertidos y competir por las puntuaciones más altas. Actualmente existen varias plataformas de juegos en línea, pero nuestra propuesta se diferencia al ofrecer una experiencia más competitiva y social, además de la posibilidad de realizar pagos en criptomonedas a los mejores jugadores. 
+
+Según datos del INE, el sector de los videojuegos ha experimentado un crecimiento constante en los últimos años, con un aumento en la demanda de juegos en línea y experiencias competitivas. Sin embargo, hemos identificado que muchas de las plataformas existentes no ofrecen una experiencia lo suficientemente competitiva o carecen de características sociales sólidas donde se pueda remunerar el esfuerzo y tiempo invertido. 
+
+Por lo tanto, consideramos que nuestro proyecto se dirige a un segmento de mercado desabastecido, ofreciendo una propuesta de valor única y satisfaciendo la necesidad de entretenimiento y competición en línea. Con nuestra plataforma, los usuarios podrán disfrutar de una amplia variedad de minijuegos, competir por las puntuaciones más altas y ser recompensados por sus logros. 
+
+En resumen, nuestra idea de negocio busca cubrir la necesidad de entretenimiento y competición en línea, ofreciendo una experiencia más competitiva y social que las plataformas existentes.
+
+### 2.3- Segmento de clientes
+
+> _EXPLICACIÓN_: Neste apartado debes indicar a quen irá dirixido o negocio, os potenciales clientes, respostando as seguinte pregunta: ¿A quen está dirixido?
 >
->Neste apartado trátase de describir a análise realizada e a toma de decisións adoptada sobre aspectos básicos ou iniciais do proxecto como:
+> Debes:
 >
-> - ¿En que consiste o noso proxecto? ¿Cal é o propósito principal da aplicación a desenvolver? ¿Cales son os obxectivos?
-> - ¿A quen vai destinada a aplicación? (Contexto social ou sector empresarial, tipo de persoas, ...)
-> - ¿Cal é a necesidade ou necesidades que se pretenden cubrir ou satisfacer?
-> - ¿Existen na actualidade aplicacións que tenten dar resposta a esa(s) necesidade(s)? ¿En que medida o conseguen?
-> - ¿O desenvolvemento da aplicación abre unha oportunidade de negocio? ¿É posible comercializala? Como?
-> - ¿Que tecnoloxías son as máis axeitadas para a realización do proxecto?
+> - Indicar o segmento ou segmentos cos rasgos principais e cuantificar o mercado.
+> - E se é o caso, diferenciar entre usuario e cliente.
 
-O noso proxecto consiste na creación dunha plataforma web de minixogos (os minixogos serán propios da paxina). O propósito principal é proporcionar un espazo onde calquera persoa poida xogar a estes minixogos. Ademais, se os usuarios deciden rexistrarse, poderán competir polas puntuacións máis altas.
+### 2.3- Segmento de clientes
 
-A aplicación está destinada a todo tipo de persoas que disfruten dos xogos en liña, independentemente da súa idade ou coñecementos técnicos. Pretendemos cubrir a necesidade de entretemento e competición en liña.
+Nuestra plataforma web de minijuegos está dirigida a un amplio segmento de clientes que disfrutan de los juegos en línea. Los rasgos principales de nuestro mercado objetivo son:
 
-Actualmente existen varias plataformas que ofrecen xogos en liña, pero a nosa proposta é diferenciarse ofrecendo unha experiencia de usuario máis competitiva e social.
+- Personas de todas las edades que buscan entretenimiento y diversión.
+- Jugadores casuales que desean pasar un rato agradable sin comprometer mucho tiempo.
+- Jugadores competitivos que buscan desafíos y competir por las puntuaciones más altas.
+- Personas interesadas en las criptomonedas y que desean ganar recompensas en ellas.
 
-Vemos unha oportunidade de negocio no desenvolvemento desta aplicación, xa que poderíamos monetizala a través de publicidade ou mediante a venda de melloras ou vantaxes para os usuarios rexistrados.
+Es importante destacar que en nuestro modelo de negocio, los usuarios son tanto los jugadores que utilizan la plataforma de forma gratuita como los clientes que deciden registrarse y acceder a beneficios adicionales. El mercado de los juegos en línea es amplio y en constante crecimiento, lo que nos brinda una gran oportunidad para captar una base sólida de usuarios y clientes. 
 
-En canto ás tecnoloxías, decidimos usar PHP para o backend e JavaScript para o frontend, xa que son linguaxes amplamente utilizadas e soportadas, e proporcionan todas as funcionalidades que necesitamos para o noso proxecto.
+### 2.4- Competencia
 
-## 2- Xustificación do proxecto
+En el mercado de plataformas de juegos en línea existen varias empresas que compiten por la atención de los usuarios. Algunas de las principales competidoras son:
 
-> *EXPLICACIÓN*: Neste apartado incluirase a información necesaria para xustificar a realización do proxecto. Debe indicarse como xurdiu a idea do proxecto, que obxectivo se persegue coa súa posta en marcha e/ou que problema vai resolver.
+1. **Steam**: Es una plataforma de distribución digital de videojuegos muy popular, con una amplia variedad de juegos disponibles para su compra y descarga. Steam cuenta con una gran base de usuarios y ofrece características como logros, tablas de clasificación y opciones multijugador.
 
-A idea do proxecto xurdiu ao observar a crecente popularidade dos xogos en liña e a falta de plataformas que ofrezan unha experiencia competitiva e social. O obxectivo principal do proxecto é proporcionar un espazo onde os usuarios poidan xogar a minixogos e competir polas puntuacións máis altas.
+2. **Epic Games Store**: Es otra plataforma de distribución digital de videojuegos que ha ganado popularidad en los últimos años. Epic Games Store se ha destacado por ofrecer juegos exclusivos y promociones atractivas para atraer a los usuarios.
 
-Ademais, queremos resolver o problema da falta de interacción social en moitas das plataformas de xogos existentes. Ao permitir aos usuarios competir entre eles e compartir as súas puntuacións, esperamos fomentar unha comunidade activa e comprometida.
+3. **PlayStation Network**: Es la plataforma en línea de Sony para sus consolas PlayStation. Ofrece una amplia selección de juegos, servicios de suscripción y opciones multijugador. PlayStation Network cuenta con una gran base de usuarios leales.
 
-## 3- Axudas e financiación
+Existen también otros competidores más pequeños y especializados en ciertos tipos de juegos o enfoques específicos. Algunos ejemplos son GOG.com, Humble Bundle y itch.io.
 
-> *EXPLICACIÓN*: Neste apartado elaborarase un orzamento, indicando os recursos materiais e persoais necesarios, e as necesidades de financiamento para a súa posta en marcha.
+En cuanto a los productos/servicios sustitutivos, existen otras formas de entretenimiento en línea que compiten por la atención de los usuarios, como las redes sociales, servicios de streaming de video y música, y otras plataformas de juegos en línea.
 
-Para este proxecto, os recursos materiais necesarios son mínimos, xa que só necesitaremos un ordenador con conexión a Internet para desenvolver e probar a aplicación. En canto aos recursos persoais, o proxecto será realizado por min, polo que non hai necesidade de contratar a máis persoal.
+En términos de posicionamiento, cada empresa tiene su propia estrategia y enfoque para atraer y retener a los usuarios. Algunas se centran en ofrecer una amplia selección de juegos, otras en promociones y descuentos, y otras en características sociales y competitivas. La clave para destacarse en este mercado competitivo es ofrecer una propuesta de valor única y satisfacer las necesidades y deseos de los usuarios.
 
-En canto á financiación, como mencionado anteriormente, a aplicación será hospedada de forma gratuita, polo que non hai custos asociados a isto. Ademais, como o desenvolvemento será realizado por min, non hai custos laborais asociados.
+### 2.5- Proposta de valor
 
-Por tanto, o orzamento para este proxecto é practicamente nulo, xa que os custos son mínimos e non hai necesidade de financiamento externo.
+Nuestra plataforma de minijuegos se diferencia de la competencia al ofrecer una experiencia única y completa para los usuarios. Algunas de las mejoras y valor que aportamos al mercado son:
 
-## 4- Prevención de riesgos laborales
+- Variedad de minijuegos divertidos y adictivos.
+- Competición por las puntuaciones más altas y recompensas en criptomonedas.
+- Experiencia social a través de tablas de clasificación y interacción entre usuarios.
+- Plataforma intuitiva y fácil de usar.
+- Constante actualización de juegos y funcionalidades.
 
-> *EXPLICACIÓN*: Neste apartado indicaranse as necesidades de permisos e autorizacións para levar a cabo as actividades, se son precisas, identificaranse os riscos inherentes á execución, e definirase o plan de prevención de riscos, así como os medios e os equipamentos necesarios.
+Los usuarios elegirán nuestra plataforma frente a la competencia porque les ofrece una experiencia de juego más competitiva, social y emocionante. Además, la posibilidad de ganar recompensas en criptomonedas y la amplia variedad de juegos disponibles les brinda un valor adicional. En resumen, nuestra propuesta de valor se basa en ofrecer entretenimiento, competición y recompensas, todo en un solo lugar. 
 
-Como se trata de un proxecto de desenvolvemento de software, non se requiren permisos ou autorizacións específicas para levar a cabo as actividades. 
+### 2.6- Forma xurídica
 
-Os riscos inherentes á execución do proxecto están principalmente relacionados coa saúde e o benestar do desenvolvedor. Estes inclúen o risco de síndrome do túnel carpiano debido a un uso excesivo do teclado, fatiga visual debido a unha exposición prolongada á pantalla do ordenador, e estrés debido a prazos apertados ou problemas técnicos inesperados.
+Nuestra elección para la forma jurídica de nuestro negocio sería una Sociedad de Responsabilidad Limitada (SL). Esta forma nos brinda la ventaja de limitar la responsabilidad de los socios, lo que significa que su responsabilidad se limita al capital aportado. Además, nos permite tener una estructura organizativa más formal y establecer acuerdos claros sobre la gestión y reparto de beneficios.
 
-Para mitigar estes riscos, o plan de prevención de riscos incluirá:
 
-- Facer pausas regulares para estirar e descansar os ollos.
-- Configurar unha estación de traballo ergonómica para reducir o risco de lesións musculoesqueléticas.
-- Xestionar o tempo de forma eficiente para evitar o estrés relacionado co traballo.
-- Manter unha boa postura durante o traballo para evitar problemas de espalda.
+### 2.7- Investimentos
 
-Os medios e equipamentos necesarios para a execución do proxecto inclúen un ordenador con conexión a Internet, un teclado e un rato ergonómicos, e unha cadeira de oficina cómoda e ajustable.
+> _EXPLICACIÓN_: Neste apartado idicaremos o investimentos, aínda que sexa, só unha enumeración de todo o que necesitan (locais, infraestruturas, equipos, suministros, mobiliario...) cuantificando cada elemento.
 
-## 3- Modelo de negocio
+### 2.7- Investimentos
 
-> *EXPLICACIÓN*: Elección do modelo de negocio explicando a súa xustificación.
->
-> **Xustifica a elección.**
-> 1. Xustificación das necesidades detectadas que cubre o sistema a desenvolver.
-> 2. Posibilidades de comercialización do sistema (viabilidade, competidores, ...).
-> 3. Ideas para a súa comercialización.
+Los principales gastos asociados a nuestro proyecto incluyen:
 
-> Ejemplos de modelo de negocio: 
->   + Modelo de pago.
->   + Freemium: é de balde pero as funcionalidades extras son de pago.
->   + In house: desenvolvementos a medida para contornos empresariais.
->   + De subscrición.
->   + Por publicidade.
->   + Outros.
+- Desarrollo de la plataforma web de minijuegos.
+- Gastos de hosting para mantener la página web en línea.
+- Creación de una memecoin y los gastos asociados a su desarrollo.
+- Listado de la memecoin en un exchange, considerando tanto los gastos de listado en un mercado centralizado como en un mercado descentralizado.
 
-O modelo de negocio que eliximos para a nosa plataforma de minixogos é o modelo freemium. Este modelo permite aos usuarios xogar a unha selección de minixogos de balde, pero as funcionalidades extras, como xogos exclusivos ou vantaxes competitivas, son de pago.
+Es importante realizar un análisis detallado de los costos asociados a cada uno de estos elementos para asegurar una correcta planificación financiera del proyecto.
 
-1. Xustificación das necesidades detectadas que cubre o sistema a desenvolver: A nosa plataforma cubre a necesidade de entretemento e competición en liña. Ao ofrecer unha selección de minixogos de balde, atraemos a unha ampla gama de usuarios. As funcionalidades de pago proporcionan un valor engadido para aqueles usuarios que desexen mellorar a súa experiencia de xogo.
+#### 2.7.1- Custos
 
-2. Posibilidades de comercialización do sistema: A viabilidade do noso sistema é alta, xa que os xogos en liña son moi populares e a demanda é constante. A competencia é alta, pero a nosa proposta de valor única, que combina xogos gratuitos con funcionalidades de pago, nos permite diferenciarnos.
+En cuanto a los costos, podemos diferenciar entre costos fijos y variables:
 
-3. Ideas para a súa comercialización: A comercialización do noso sistema podería realizarse a través de campañas de publicidade en redes sociais, colaboracións con influencers de xogos e patrocinios de eventos de xogos. Tamén poderíamos ofrecer probas gratuitas das funcionalidades de pago para atraer a novos usuarios.
- 
-### 3.1- Viabilidade
+- Costos fijos:
+  - Desarrollo de la plataforma web: Estimación de los costos de desarrollo del software y diseño de la plataforma.
+  - Gastos de hosting: Considerar los costos mensuales o anuales de alojamiento de la página web en un proveedor de hosting confiable. Los costos de hosting pueden variar dependiendo del proveedor y del tipo de plan seleccionado, pero generalmente oscilan entre $100 y $500 al año.
+  - Creación de la memecoin: Incluir los costos asociados a la creación de la criptomoneda, como el desarrollo del contrato inteligente y la implementación de la blockchain. Los costos de creación de una memecoin pueden variar ampliamente dependiendo de los requisitos y la complejidad del proyecto, pero generalmente oscilan entre $10,000 y $50,000.
+  - Listado en un exchange centralizado: Considerar los costos de listado en un exchange centralizado, que pueden variar dependiendo del exchange seleccionado. Los costos de listado en un exchange centralizado suelen oscilar entre $50,000 y $200,000.
+  - Listado en un mercado descentralizado: Incluir los costos de listado en un mercado descentralizado, como los gastos de gas en la red Ethereum. Los costos de listado en un mercado descentralizado pueden variar dependiendo de la red y el protocolo utilizado, pero generalmente oscilan entre $5,000 y $20,000.
 
-#### 3.1.1- Viabilidade técnica
+- Costos variables:
+  - Marketing y promoción: Estimar los costos asociados a la promoción de la plataforma web y la memecoin, como campañas publicitarias y estrategias de marketing digital. Los costos de marketing y promoción pueden variar ampliamente dependiendo de la estrategia y el alcance deseado, pero generalmente oscilan entre $5,000 y $50,000.
+  - Mantenimiento y actualización: Considerar los costos de mantenimiento y actualización de la plataforma web y la memecoin, incluyendo posibles mejoras y correcciones de errores. Los costos de mantenimiento y actualización pueden variar dependiendo de la complejidad y el alcance de los cambios requeridos, pero generalmente oscilan entre $1,000 y $10,000 al año.
 
-> - Será posible dispoñer dos recursos humanos e medios de produción necesarios (materias primas, maquinaria,  instalacións, etc.)?
-> - Existe algún impedimento técnico que dificulte o proceso produtivo?  
+Es importante tener en cuenta los impuestos y costos sociales asociados a la actividad empresarial, así como realizar un análisis financiero detallado para estimar los costos totales y evaluar la viabilidad económica del proyecto.
 
-En canto aos recursos humanos, o proxecto será realizado por min, polo que non hai necesidade de contratar a máis persoal. Os medios de produción necesarios son un ordenador con conexión a Internet, que xa temos dispoñible.
+En cuanto a los ingresos, es necesario realizar una previsión de ventas y establecer una política de precios para la plataforma web de minijuegos y la memecoin. Esto implicará estimar las ventas esperadas y definir los precios de los servicios ofrecidos.
 
-Non existen impedimentos técnicos que dificulten o proceso produtivo. As tecnoloxías que decidimos usar, PHP para o backend e JavaScript para o frontend, son amplamente utilizadas e soportadas, e proporcionan todas as funcionalidades que necesitamos para o noso proxecto.
+Es importante realizar un análisis de mercado y considerar factores como la competencia, la demanda y las tendencias del mercado para establecer una estrategia de precios adecuada y maximizar los ingresos del proyecto.
 
-#### 3.1.2- Viabilidade económica
+En cuanto a los costos fijos, podemos estimar un promedio de precios para cada elemento:
 
-> - Os beneficios do proxecto son superiores aos costes?
-> - As perdas poden cubrirse vía financiamento (por parte da administración pública, con subvencións, etc)?    
-Os beneficios do proxecto son esperados para ser superiores aos custos. Como mencionado anteriormente, os custos de desenvolvemento son mínimos, xa que o proxecto será realizado por min e non hai custos laborais asociados. Ademais, a aplicación será hospedada de forma gratuita, polo que non hai custos de aloxamento. As funcionalidades de pago na nosa plataforma de minixogos proporcionarán unha fonte de ingresos que esperamos que cubra e supere estes custos.
+- Desarrollo de la plataforma web: Estimado en $15,000.
+- Gastos de hosting: Considerando un costo anual de $300.
+- Creación de la memecoin: Con un costo promedio de $30,000.
+- Listado en un exchange centralizado: Estimado en $125,000.
+- Listado en un mercado descentralizado: Con un costo promedio de $12,500.
 
-En canto ás perdas, non esperamos que sexan significativas, xa que os custos son baixos. Non obstante, se ocorreran perdas, poderíamos buscar financiamento externo. Existen varias opcións de financiamento dispoñibles, como subvencións para startups tecnolóxicas, inversións de capital de risco ou financiamento colectivo. Tamén poderíamos considerar a posibilidade de buscar patrocinios ou publicidade para xerar ingresos adicionais.
+En total: $182,800
 
-### 3.2- Competencia
+Es importante tener en cuenta que estos precios son solo estimaciones y pueden variar dependiendo de los proveedores y las necesidades específicas del proyecto.
 
-- Identificación da competencia, as súas características e a súa posición no mercado.
-- Existencia de productos/servizos substitutivos.
+Recuerda que estos son solo los costos fijos, y también debes considerar los costos variables, como marketing y promoción, mantenimiento y actualización.
 
-Recurso: [Modelo de plan de negocios. Empresa de servicios informáticos. IGAPE](http://www.igape.es/images/crear-unha-empresa/Recursos/PlansdeNegocio/16ServiciosInformaticos12_5_cas.pdf) (páxina 45 e seguintes)
+#### 2.7.2- Ingresos
 
-A competencia principal para a nosa plataforma de minixogos inclúe grandes plataformas de xogos en liña como Kongregate, Miniclip e Armor Games. Estas plataformas teñen unha ampla selección de xogos e unha gran base de usuarios. Non obstante, a nosa plataforma distínguese ao ofrecer unha experiencia de xogo máis social e competitiva.
+En cuanto a los ingresos, es necesario realizar una previsión de ventas y establecer una política de precios para la plataforma web de minijuegos y la memecoin. Esto implicará estimar las ventas esperadas y definir los precios de los servicios ofrecidos.
 
-As características destas plataformas competidoras inclúen:
+Es importante realizar un análisis de mercado y considerar factores como la competencia, la demanda y las tendencias del mercado para establecer una estrategia de precios adecuada y maximizar los ingresos del proyecto.
 
-- Kongregate: Ofrece miles de xogos gratuitos, con opcións de chat en vivo e logros para os usuarios. A súa posición no mercado é forte, con millóns de usuarios en todo o mundo.
-- Miniclip: Ofrece unha variedade de xogos en diferentes categorías. Ten unha forte presenza en dispositivos móviles.
-- Armor Games: Coñecida polos seus xogos de navegador de alta calidade, Armor Games tamén ofrece xogos para dispositivos móviles.
+### 2.8- Viabilidade
 
-En canto a produtos ou servizos substitutivos, estes poderían incluír outras formas de entretemento en liña, como plataformas de streaming de vídeo (Netflix, YouTube), redes sociais (Facebook, Instagram) e plataformas de música (Spotify). Estes servizos non son competidores directos, pero competen polo tempo e a atención dos usuarios.
+#### 2.8.1- Viabilidade técnica
 
-### 3.3- Promoción
+Para evaluar la viabilidad técnica del proyecto, es necesario considerar los recursos humanos y los medios de producción necesarios. En cuanto a los recursos humanos, se deben asegurar la disponibilidad de personal con las habilidades y conocimientos necesarios para desarrollar la plataforma web de minijuegos, crear la memecoin y realizar las tareas de mantenimiento y actualización.
 
-> *EXPLICACIÓN* Técnicas elixidas para a promoción da empresa.
->
-> - Técnicas elixidas:
->   + Redes sociais.
->   + Plataformas multimedia.
->   + Páxina web.
->   + Posicionamento web.
->   + Patrocinios.
->   + Participación en eventos.
->   + Prácticas de responsabilidade social corporativa. 
->   + Outros.
-> - Xustifica a elección.
-  
-  As técnicas elixidas para a promoción da nosa empresa son:
+En cuanto a los medios de producción, se deben evaluar aspectos como la disponibilidad de materias primas, la infraestructura tecnológica necesaria (servidores, bases de datos, almacenamiento, etc.) y cualquier otro recurso técnico requerido para el desarrollo y funcionamiento del proyecto.
 
-  - Redes sociais: Utilizaremos plataformas como Facebook, Twitter e Instagram para promover os nosos xogos e interactuar coa nosa comunidade de usuarios. Estas plataformas permitirannos alcanzar un público amplo e diverso.
-  - Plataformas multimedia: Publicaremos vídeos promocionais e tutoriais de xogos no YouTube e Twitch. Estas plataformas son moi populares entre os xogadores e permitirannos mostrar os nosos xogos en acción.
-  - Páxina web: A nosa páxina web será o centro da nosa presenza en liña. Aquí, os usuarios poderán aprender máis sobre os nosos xogos, ver as últimas novidades e acceder aos nosos xogos.
-  - Posicionamento web: Traballaremos para optimizar o noso sitio web para os motores de busca, o que nos axudará a atraer máis tráfico orgánico.
-  - Patrocinios: Buscaremos patrocinios con empresas relacionadas coa industria dos xogos para aumentar a nosa visibilidade e credibilidade.
-  - Participación en eventos: Asistiremos a feiras de xogos e outros eventos relacionados para promover os nosos xogos e establecer contactos na industria.
+Es importante realizar un análisis exhaustivo para identificar posibles impedimentos técnicos que puedan dificultar el proceso produtivo. Esto puede incluir limitaciones tecnológicas, incompatibilidades entre las diferentes tecnologías utilizadas, problemas de escalabilidad, entre otros.
 
-  Xustificación da elección:
+En resumen, es fundamental asegurar la disponibilidad de los recursos humanos y los medios de producción necesarios, así como identificar y abordar cualquier impedimento técnico que pueda surgir durante el desarrollo del proyecto.
 
-  Escollimos estas técnicas de promoción porque nos permitirán alcanzar o noso público obxectivo de xogadores de forma efectiva. As redes sociais e as plataformas multimedia son canais de comunicación moi populares entre os xogadores, polo que nos permitirán interactuar directamente coa nosa comunidade de usuarios. A páxina web e o posicionamento web son fundamentais para atraer tráfico a nosa plataforma de xogos. Os patrocinios e a participación en eventos nos permitirán aumentar a nosa visibilidade e credibilidade na industria dos xogos.
+#### 2.8.2 - Viabilidade económica
 
-## 4- Requirimentos
+Para evaluar la viabilidad económica del proyecto, es necesario analizar los costos e inversiones involucrados. A continuación, se detallan los principales aspectos económicos a considerar:
 
-> *EXPLICACIÓN*: Descrición dos medios materiais e das tecnoloxías necesarias que se usarán para desenvolver o proxecto incluíndo as linguaxes de programación frontend e backend, técnicas, librerías, bases de datos, servizos usados, servidores, API’s, etc.
->
-> - **Infraestructura:** dominio web, servidor web dedicado, servidor de base de datos, almacenamento, memoria, ...
-> - **Backend:** tecnoloxías usadas.
-> - **Frontend:** tecnoloxías usadas
+- Costos fijos:
+  - Desarrollo de la plataforma web: Estimado en $15,000.
+  - Gastos de hosting: Considerando un costo anual de $300.
+  - Creación de la memecoin: Con un costo promedio de $30,000.
+  - Listado en un exchange centralizado: Estimado en $125,000.
+  - Listado en un mercado descentralizado: Con un costo promedio de $12,500.
 
-Para desenvolver o proxecto, necesitaremos os seguintes medios materiais e tecnoloxías:
+- Costos variables:
+  - Marketing y promoción: Estimado entre $5,000 y $50,000, dependiendo de la estrategia y el alcance deseado.
+  - Mantenimiento y actualización: Estimado entre $1,000 y $10,000 al año, dependiendo de la complejidad y el alcance de los cambios requeridos.
 
-- **Infraestructura:** 
-  - Dominio web: Necesitaremos un dominio web para a nosa plataforma de minixogos. Este será o enderezo onde os usuarios poderán acceder aos nosos xogos.
-  - Servidor web dedicado: Para aloxar a nosa plataforma, necesitaremos un servidor web dedicado. Este servidor debe ser capaz de manexar múltiples solicitudes simultáneas e proporcionar unha experiencia de usuario suave e rápida.
-  - Servidor de base de datos: Necesitaremos un servidor de base de datos para almacenar información sobre os nosos usuarios, xogos e transaccións.
-  - Almacenamento: Necesitaremos suficiente almacenamento para gardar os nosos xogos, imaxes, vídeos e outros datos.
-  - Memoria: O servidor debe ter suficiente memoria para executar os nosos xogos e aplicacións de forma eficiente.
+Es importante tener en cuenta que estos costos son solo estimaciones y pueden variar según los proveedores y las necesidades específicas del proyecto.
 
-- **Backend:** 
-  - Tecnoloxías usadas: Para o desenvolvemento do backend, usaremos CakePHP. CakePHP é un marco de traballo de PHP que nos permite desenvolver aplicacións web de forma rápida e eficiente.
+Para evaluar la viabilidad económica, es necesario comparar los costos con los posibles beneficios del proyecto. Esto implica realizar un análisis detallado de los ingresos esperados, considerando factores como la demanda del mercado, la competencia y las tendencias.
 
-- **Frontend:** 
-  - Tecnoloxías usadas: Para o desenvolvemento do frontend, usaremos JavaScript. JavaScript é unha linguaxe de programación que nos permite crear interfaces de usuario interactivas e dinámicas.
+Además, es importante evaluar la posibilidad de cubrir posibles pérdidas a través de financiamiento, ya sea mediante subvenciones o apoyo de la administración pública.
 
-## 5- Planificación
+En conclusión, la viabilidad económica del proyecto dependerá de la capacidad para generar ingresos que superen los costos asociados, así como de la disponibilidad de financiamiento adicional en caso de pérdidas.
+
+### 2.8.3- Conclusión
+
+Para determinar la viabilidad del proyecto, es necesario evaluar si los beneficios superan los costos y si es posible cubrir las pérdidas a través de financiamiento, ya sea mediante la administración pública o subvenciones.
+
+Es recomendable realizar un análisis financiero detallado que tome en cuenta los ingresos esperados, los costos estimados y los posibles escenarios de pérdidas. Además, es importante considerar la demanda del mercado, la competencia y las tendencias para evaluar la viabilidad económica a largo plazo.
+
+En cuanto al financiamiento, es posible explorar opciones como solicitar subvenciones o buscar apoyo de la administración pública. Sin embargo, es necesario investigar y evaluar las oportunidades disponibles en función de los requisitos y objetivos del proyecto.
+
+En resumen, la viabilidad del proyecto dependerá de la capacidad para generar beneficios que superen los costos y de la disponibilidad de financiamiento adicional en caso de pérdidas. Se recomienda realizar un análisis financiero exhaustivo y explorar opciones de financiamiento para tomar una decisión informada.
+
+Es importante tener en cuenta que hasta que la idea se ponga en práctica, no se puede saber a ciencia cierta si es viable o no. Teniendo en cuenta que también dependerá de como se ejecute la idea.
+
+## 3- Requirimentos técnicos
+Para desarrollar el proyecto, necesitarás los siguientes recursos y tecnologías:
+# Infraestructura
+
+- Dominio web: Se necesita registrar un dominio para la web.
+- Servidor web dedicado: Se utiliza un servidor dedicado para alojar la aplicación web.
+- Servidor de base de datos: Se utiliza un servidor de base de datos para almacenar los datos de la aplicación.
+- Almacenamiento: Se puede necesitar espacio de almacenamiento para guardar archivos y recursos adicionales.
+
+# Backend
+
+- Framework de CakePHP: Se utiliza el framework de CakePHP para desarrollar la lógica del backend de la aplicación.
+- Lenguaje de programación: Se utiliza PHP para programar el backend.
+- Base de datos: Se utiliza MySQL como sistema de gestión de base de datos.
+- Contenedor Docker: Se utiliza Docker para ejecutar la aplicación en contenedores.
+
+# Frontend
+
+- Lenguajes de programación: Se utilizan HTML, CSS y JavaScript para desarrollar el frontend de la aplicación.
+- Frameworks y librerías: Se pueden utilizar frameworks y librerías como jQuery y Ajax para facilitar el desarrollo de funcionalidades interactivas.
+- Juegos: Se añaden juegos al frontend de la aplicación utilizando tecnologías como HTML5 y JavaScript.
+
+
+## 4- Planificación
 
 > *EXPLICACIÓN*: Inclúe un calendario co tempo estimado a adicar a cada fase do proxecto.
 >
@@ -224,4 +266,4 @@ A continuación, presentamos un calendario estimado para cada fase do proxecto:
   - Duración: 8 semanas
   - Tarefas: Codificación das funcionalidades, pruebas unitarias, pruebas de integración, pruebas de sistema, pruebas de aceptación.
 
-Por favor, tenga en cuenta que estas fechas son estimaciones e poden variar dependiendo de diversos factores como a complexidade das tareas, os imprevistos que poidan surxir, entre outros.
+Por favor, teña en cota que estas fechas son estimacións e poden variar dependendo de diversos factores como a complexidade das tareas, os imprevistos que poidan surxir, entre outros.

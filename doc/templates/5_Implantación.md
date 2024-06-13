@@ -21,6 +21,11 @@
 > - Usuarios da aplicación.
 > - Diagrama final de despregue (se hai variacións con respecto ó realizado na anterior fase).
 
+Para descargar el código del proyecto y continuar su desarrollo, sigue estos pasos:
+docker-compose up --build -d
+docker compose exec web bash
+composer install
+
 ### 1.2- Administración do sistema
 
 > *EXPLICACIÓN:* Neste apartado indicarase información relativa á administración do sistema, é dicir, tarefas que se deberán realizar unha vez que o sistema estea funcionando.
