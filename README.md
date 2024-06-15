@@ -11,69 +11,54 @@
   - [Guía de contribución](#guía-de-contribución)
   - [Links](#links)
 
-> *EXPLICACIÓN*: Este documento será a "*páxina de aterrizaxe*" do teu proxecto. Será ou primeiro que vexan vos que se interesen por el. Cúida a sua redacción con todo ou mimo. Elimina posteriormente todas as lineas "EXPLICACIÓN*" cando creas finalizada a súa redacción.
-> Podes acompañar á redacción deste ficheiro con imaxes ou gifs, pero non abuses deles.
-
 ## Taboleiro do proyecto
 
-> *EXPLICACIÓN:* neste punto indica se o proyecto está en fase de desenrolo ou finalizado.
->
-| Estado do Proyecto | Descrición |
+| Estado del Proyecto | Descripción |
 | --- | --- |
-| En desarrollo | O proyecto está actualmente en fase de desarrollo. |
+| Funcional | El proyecto está funcionando, pero abierto a nuevas mejoras e implementaciones. |
 
 ## Descrición
 
-> *EXPLICACIÓN*: Realiza unha breve descrición do proxecto. Non menos de 100 palabras e non máis de 300. Resalta o fundamental *coas túas propias palabras**. Utiliza unha linguaxe correcta, *pero natural**, que o entenda todo o mundo, mesmo e en especial, as persoas que non teñan un coñecemento técnico avanzado. Pode ser un estracto ou resumo de apartados que xa contemples noutros ficheiros.
-> Descrición básica das ferramentas/tecnoloxías/linguaxes de programación,... empregados.
-
-Este proxecto é unha páxina web de minixogos, un lugar onde os xogadores poden disfrutar de varios xogos e competir por as máximas puntuacións. Os usuarios poden rexistrarse para gardar as suas puntuacións e seguir o seu progreso. A idea é crear unha comunidade de xogadores que disfruten dos xogos e queiran mellorar as suas habilidades. A páxina web será deseñada para ser intuitiva e fácil de usar, para que calquera persoa, independentemente do seu coñecemento técnico, poida xogar e divertirse. As tecnoloxías utilizadas para o desenvolvemento deste proxecto incluirán HTML, CSS, JavaScript e un servidor backend para xestionar os datos dos usuarios e as puntuacións.
+Este proyecto es una página web de minijuegos, un lugar donde los jugadores pueden disfrutar de varios juegos y competir por las máximas puntuaciones. Los usuarios pueden registrarse para guardar sus puntuaciones y seguir su progreso. La idea es crear una comunidad de jugadores que disfruten de los juegos y quieran mejorar sus habilidades y ser recompensados por ser los mejores. La página web será diseñada para ser intuitiva y fácil de usar, para que cualquier persona, independientemente de su conocimiento técnico, pueda jugar y divertirse. Las tecnologías utilizadas para el desarrollo de este proyecto incluirán HTML, CSS, JavaScript, PHP (framework CakePHP) y un servidor backend para gestionar los datos de los usuarios y las puntuaciones.
 
 ## Instalación / Posta en marcha
 
-> *EXPLICACIÓN*: Neste apartado describe con toda precisión e a poder ser coa maior simplicidade/facilidade posible, como poñer en marcha a túa aplicación para probala (nun ambiente local). Valorarase moi positivamente que este proceso sexa o máis fácil posible, cunha simple instrución (p. e. un script de instalación, descarga e posta en marcha dun contedor,...).
+Para poner en marcha la aplicación, necesitarás tener instalado Docker y Docker Compose en tu sistema. Una vez instalados, sigue los siguientes pasos:
 
-Para poñer en marcha a aplicación, necesitarás ter instalado Docker e Docker Compose no teu sistema. Unha vez instalados, segue os seguintes pasos:
+1. Clona el repositorio del proyecto en tu sistema local usando Git.
+2. Navega hasta el directorio del proyecto.
+3. Ejecuta el comando `docker-compose up` en el terminal. Este comando construirá e iniciará los contenedores necesarios para la aplicación.
 
-1. Clona o repositorio do proxecto no teu sistema local usando Git.
-2. Navega ata o directorio do proxecto.
-3. Executa o comando `docker-compose up` no terminal. Este comando construirá e iniciará os contenedores necesarios para a aplicación.
+Los contenedores que se crearán son los siguientes:
 
-Os contenedores que se crearán son os seguintes:
+- Un contenedor para la base de datos, que utilizará una imagen de MySQL.
+- Un contenedor para el servidor web, que utilizará una imagen de Apache.
+- Un contenedor para adminer, que utilizará una imagen de adminer.
 
-- Un contenedor para a base de datos, que utilizará unha imaxe de MySQL.
-- Un contenedor para o servidor web, que utilizará unha imaxe de Apache.
-- Un contenedor para PHP, que utilizará unha imaxe de PHP.
+Estos contenedores se comunicarán entre sí para proporcionar un entorno de desarrollo completo para la aplicación.
 
-Estes contenedores comunicaranse entre si para proporcionar un entorno de desenvolvemento completo para a aplicación.
+Una vez que los contenedores estén en marcha, puedes acceder a la aplicación web navegando a `http://localhost` en tu navegador.
 
-Unha vez que os contenedores estean en marcha, podes acceder á aplicación web navegando ata `http://localhost` no teu navegador.
 ## Uso
 
-> *EXPLICACIÓN*: É este apartado describe brevemente como se usará a aplicación Web do proxecto. Describe o uso da interface web *só o uso** (a modo de sumario) *dos aspectos máis relevantes do seu funcionamento** (máxima brevidade, coma se fose un anuncio reclamo ou comercial).
->
-Para usar a aplicación, os usuarios deben navegar ata a páxina principal onde verán unha lista de xogos dispoñibles. Poden elixir un xogo para xogar e, unha vez que o xogo se carga, recibirán instrucións sobre como xogar. Se o usuario está rexistrado e iniciou sesión, as súas puntuacións serán gardadas e poderán ver as súas puntuacións máximas en cada xogo. Tamén poderán ver unha táboa de clasificación global para cada xogo, onde poderán competir coas puntuacións máximas doutros usuarios. Se o usuario non está rexistrado ou non iniciou sesión, aínda poderán xogar aos xogos, pero as súas puntuacións non serán gardadas.
+Para utilizar la aplicación, los usuarios deben navegar hasta la página principal donde verán una lista de juegos disponibles. Pueden elegir un juego para jugar y, una vez que el juego se carga, podrán jugarlo. Si el usuario está registrado e inició sesión, sus puntuaciones serán guardadas y podrán ver sus puntuaciones máximas en cada juego. También podrán ver una tabla de clasificación global (aparecerán los 3 mejores de cada juego) para cada juego, donde podrán competir con las puntuaciones máximas de otros usuarios. Si el usuario no está registrado o no ha iniciado sesión, aún podrán jugar a los juegos, pero sus puntuaciones no serán guardadas.
 
 ## Sobre o autor
 
 > *EXPLICACIÓN*: Realiza unha breve descrición de quen es (perfil profesional), os teus puntos fortes, ou tecnoloxías que máis dominas... a motivación do proxecto, tendo sobre todo en conta un nicho de mercado sen explotar.. *Non máis de 200 palabras**. Indica a forma fiable de contactar contigo durante o proceso de creación do proxecto.
 
-Sobre min, son un desenvolvedor web apaixonado con fortes habilidades en JavaScript e PHP. Teño unha gran experiencia en desenvolvemento frontend e backend, creando solucións eficientes e escalables. A miña motivación para este proxecto vén da miña paixón polos xogos e a programación. Quero crear un espazo onde os xogadores poden competir e divertirse, ao mesmo tempo que melloran as súas habilidades. Creo que este proxecto pode encher un nicho de mercado para xogos web competitivos e accesibles. Durante o proceso de creación deste proxecto, podes contactar comigo a través do meu correo electrónico (eloypro12@gmail.com) ou a través do sistema de mensaxes de GitHub.
+Sobre mí, soy un desarrollador web apasionado con fuertes habilidades en JavaScript y PHP. Tengo una gran experiencia en desarrollo frontend y backend, creando soluciones eficientes y escalables. Mi motivación para este proyecto viene de mi pasión por los juegos y la programación. Quiero crear un espacio donde los jugadores puedan competir y divertirse, al mismo tiempo que mejoran sus habilidades y que sean recompensados por su esfuerzo. Creo que este proyecto puede llenar un nicho de mercado para juegos web competitivos y accesibles. Durante el proceso de creación de este proyecto, puedes contactarme a través de mi correo electrónico (eloypro12@gmail.com) o a través del sistema de mensajes de GitHub.
 ## Licenza
 
-> *EXPLICACIÓN*: É requisito INDISPENSABLE o licenciar explicitamente o proxecto software. Recoméndase licenciar con GNU Free Documentation License Version 1.3*. Crear un ficheiro `LICENSE` na raiz do repo, co teu ficheiro de licenza. Lembra que se empregas unha licenza de software libre estás a autorizar a derivación da túa obra baixo a mesma licenza que elixas, podendo dar continuidade, p. e. outro alumno, para continuar o teu proxecto noutro curso.
+Este proyecto está licenciado bajo la licencia Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0). Esto significa que puedes compartir y adaptar el material para cualquier propósito, siempre y cuando:
 
-Este proxecto está licenciado baixo a licenza Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0). Isto significa que podes compartir e adaptar o material para calquera propósito, sempre e cando:
+- Des crédito, proporcionando un enlace a la licencia, e indicando si realizaste cambios. Puedes hacerlo de cualquier manera razonable, pero no de una manera que sugiera que el licenciante te respalda a ti o a tu uso.
+- No lo utilices con fines comerciales.
+- Si remezclas, transformas o construyes a partir del material, debes distribuir tus contribuciones bajo la misma licencia que el original.
 
-- Des sexo crédito, proporcionando unha ligazón á licenza, e indicando se fixeches cambios. Podes facelo de calquera maneira razonable, pero non dunha maneira que sugira que o licenciante te respalda a ti ou ao teu uso.
-- Non o utilices con fins comerciais.
-- Se remezclas, transformas ou constrúes a partir do material, debes distribuír as túas contribucións baixo a mesma licenza que o orixinal.
-
-Para máis información, consulta a [páxina da licenza CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.gl).
+Para más información, consulta la [página de la licencia CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.es).
 
 ## Índice
-
-> *EXPLICACIÓN*: Simplemente indexa ordenadamente todo o teu proxecto.
 
 1. [Anteproyecto](doc/templates/1_Anteproxecto.md)
 2. [Análise](doc/templates/2_Analise.md)
@@ -85,8 +70,25 @@ Para máis información, consulta a [páxina da licenza CC BY-NC-SA 4.0](https:/
 
 ## Guía de contribución
 
-> EXPLICACIÓN*: Tratándose dun proxecto de software libre, é moi importante que expoñas como se pode contribuír co teu proxecto. Algúns exemplos disto son realizar novas funcionalidades, corrección e/o optimización do código, realización de tests automatizados, novas interfaces de integración, desenvolvemento de plugins etc. Se o máis conciso que poidas.
+Si estás interesado en contribuir a este proyecto de software libre, ¡te damos la bienvenida! Aquí hay algunas formas en las que puedes contribuir:
+
+1. **Desarrollo de nuevas funcionalidades**: Si tienes ideas para mejorar el proyecto, puedes implementar nuevas funcionalidades y enviar una solicitud de extracción (pull request) para que sean revisadas y consideradas.
+
+2. **Corrección y optimización del código**: Si encuentras errores o áreas de mejora en el código existente, puedes enviar correcciones y optimizaciones para ayudar a mantener el proyecto en buen estado.
+
+3. **Realización de pruebas automatizadas**: Las pruebas automatizadas son fundamentales para garantizar la calidad del software. Si tienes experiencia en pruebas unitarias, de integración o de rendimiento, puedes contribuir agregando pruebas automatizadas al proyecto.
+
+4. **Desarrollo de plugins o interfaces de integración**: Si tienes conocimientos en desarrollo de plugins o integración con otras herramientas o servicios, puedes desarrollar nuevas interfaces de integración que mejoren la funcionalidad del proyecto.
+
+Recuerda seguir las mejores prácticas de desarrollo, documentar tus cambios y asegurarte de que tus contribuciones sean coherentes con la visión y los objetivos del proyecto.
+
+¡Gracias por tu interés en contribuir al proyecto! Esperamos recibir tus aportes.
+
 
 ## Links
 
-> EXPLICACIÓN*: Ligazóns externas e descipciones destas ligazóns que creas conveniente indicar aquí. Xeralmente xa van estar integrados coa túa documentación, pero se requires realizar unha listaxe deles, leste é o lugar.
+- [Documentacion de cakephp](https://cakephp.org/)
+- [Documentacion de JavaScript](https://developer.mozilla.org/es/docs/Web/JavaScript)
+- [Documentacion de PHP](https://www.php.net/manual/es/index.php)
+- [Documentacion de HTML](https://developer.mozilla.org/es/docs/Web/HTML)
+- [Documentacion de CSS](https://developer.mozilla.org/es/docs/Web/CSS)

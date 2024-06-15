@@ -1,104 +1,67 @@
 # Requerimientos do sistema
 
-- [Requerimientos do sistema](#requerimientos-do-sistema)
-  - [1- Descrición Xeral](#1--descrición-xeral)
+- [Requerimientos del sistema](#requerimientos-del-sistema)
+  - [1- Descripción General](#1--descripción-general)
   - [2- Funcionalidades](#2--funcionalidades)
   - [3- Tipos de usuarios](#3--tipos-de-usuarios)
-  - [4- Contorno operacional](#4--contorno-operacional)
+  - [4- Entorno operacional](#4--entorno-operacional)
   - [5- Normativa](#5--normativa)
-  - [6- Melloras futuras](#6--melloras-futuras)
+  - [6- Mejoras futuras](#6--mejoras-futuras)
 
-> *EXPLICACION*: Este documento describe os requirimentos para "nome do proxecto" especificando que funcionalidade ofrecerá e de que xeito.
+> *EXPLICACIÓN*: Este documento describe los requerimientos para "nombre del proyecto" especificando qué funcionalidades ofrecerá y cómo.
 
-## 1- Descrición Xeral
+## 1- Descripción General
 
->*EXPLICACION*: Descrición Xeral do proxecto
+Nuestro proyecto consiste en la creación de una plataforma web de minijuegos (los minijuegos serán propios de la página). El propósito principal es proporcionar un espacio donde cualquier persona pueda jugar a estos minijuegos. Además, si los usuarios deciden registrarse, podrán competir por las puntuaciones más altas y ser remunerados.
 
-O noso proxecto consiste na creación dunha plataforma web de minixogos (os minixogos serán propios da paxina). O propósito principal é proporcionar un espazo onde calquera persoa poida xogar a estes minixogos. Ademais, se os usuarios deciden rexistrarse, poderán competir polas puntuacións máis altas.
+La aplicación está destinada a todo tipo de personas que disfruten de los juegos en línea, independientemente de su edad o conocimientos técnicos. Pretendemos cubrir la necesidad de entretenimiento y competición en línea.
 
-A aplicación está destinada a todo tipo de persoas que disfruten dos xogos en liña, independentemente da súa idade ou coñecementos técnicos. Pretendemos cubrir a necesidade de entretemento e competición en liña.
+Actualmente existen varias plataformas que ofrecen juegos en línea, pero nuestra propuesta es diferenciarse ofreciendo una experiencia de usuario más competitiva y social.
 
-Actualmente existen varias plataformas que ofrecen xogos en liña, pero a nosa proposta é diferenciarse ofrecendo unha experiencia de usuario máis competitiva e social.
+Vemos una oportunidad de negocio en el desarrollo de esta aplicación, ya que podríamos monetizarla a través de publicidad o mediante la especulación del mercado cripto.
 
-Vemos unha oportunidade de negocio no desenvolvemento desta aplicación, xa que poderíamos monetizala a través de publicidade ou mediante a venda de melloras ou vantaxes para os usuarios rexistrados.
-
-En canto ás tecnoloxías, decidimos usar PHP para o backend e JavaScript para o frontend, xa que son linguaxes amplamente utilizadas e soportadas, e proporcionan todas as funcionalidades que necesitamos para o noso proxecto.
+En cuanto a las tecnologías, decidimos usar PHP para el backend y JavaScript para el frontend, ya que son lenguajes ampliamente utilizados y soportados, y proporcionan todas las funcionalidades que necesitamos para nuestro proyecto.
 
 ## 2- Funcionalidades
 
->*EXPLICACION* Describir que servizos ou operacións se van poder realizar por medio do noso proxecto, indicando que actores interveñen en cada caso.
->
-> Enumeradas, de maneira que na fase de deseño poidamos definir o diagrama ou configuración correspondente a cada funcionalidade.
-> Cada función ten uns datos de entrada e uns datos de saída. Entre os datos de entrada e de saída, realízase un proceso, que debe ser explicado.
-
-| Acción   |  Descrición        |
+| Acción   |  Descripción        |
 |----------|--------------------|
-| Presentación dos productos  | Mostra dos produtos (xogos) por medio da páxina web |
-| Rexistro de usuarios | Permitir que os usuarios se rexistren na plataforma |
-| Inicio de sesión | Permitir que os usuarios inicien sesión na plataforma |
-| Xogar minixogos | Permitir que os usuarios xoguen os minixogos dispoñibles |
-| Rexistro de puntuacións | Rexistrar as puntuacións dos usuarios nos minixogos |
-| Clasificación de puntuacións | Mostrar unha clasificación das puntuacións máis altas |
-| Compartir puntuacións en redes sociais | Permitir que os usuarios compartan as súas puntuacións en redes sociais |
-| Xestión de perfil de usuario | Permitir que os usuarios modifiquen a súa información de perfil |
-| Recuperación de contrasina | Permitir que os usuarios recuperen a súa contrasinal en caso de esquecemento |
-
-
+| Presentación de los productos  | Mostrar los productos (juegos) a través de la página web |
+| Registro de usuarios | Permitir que los usuarios se registren en la plataforma |
+| Inicio de sesión | Permitir que los usuarios inicien sesión en la plataforma |
+| Jugar minijuegos | Permitir que los usuarios jueguen los minijuegos disponibles |
+| Registro de puntuaciones | Registrar las puntuaciones de los usuarios en los minijuegos |
+| Clasificación de puntuaciones | Mostrar una clasificación de las puntuaciones más altas |
+| Gestión de perfil de usuario | Permitir que los usuarios modifiquen su información de perfil |
 
 ## 3- Tipos de usuarios
 
-> *EXPLICACION* Describir os tipos de usuario que poderán acceder ao noso sistema. Habitualmente os tipos de usuario veñen definidos polas funcionalidades ás cales teñen acceso. En termos xerais existen moitos grupos de usuarios: anónimos, novos, rexistrados, bloqueados, confirmados, verificados, administradores, etc.
->
-> Exemplo:
->
-> - Usuario xenérico, que terá acceso a ...
-> - Usuario técnico, que poderá...
-
-- Usuario anónimo: Tendrá acceso a presentación dos produtos e a xogar os minixogos, pero non poderá rexistrar puntuacións nin acceder a funcionalidades exclusivas para usuarios rexistrados.
-- Usuario rexistrado: Poderá acceder a todas as funcionalidades do sistema, incluindo o registro das suas máximas puntuacións, a clasificación de puntuacións, compartir puntuacións en redes sociais e xestionar seu perfil de usuario.
+- Usuario anónimo: Tendrá acceso a la presentación de los productos y a jugar los minijuegos, pero no podrá registrar puntuaciones ni acceder a funcionalidades exclusivas para usuarios registrados.
+- Usuario registrado: Podrá acceder a todas las funcionalidades del sistema, incluyendo el registro de sus máximas puntuaciones, la clasificación de puntuaciones, compartir puntuaciones en redes sociales y gestionar su perfil de usuario.
 
 
-## 4- Contorno operacional
+## 4- Entorno operacional
 
-> *EXPLICACION* Neste apartado deben describirse os recursos necesarios, dende o punto de vista do usuario, para poder operar coa aplicación web. Habitualmente consiste nun navegador web actualizado e unha conexión a internet.
-Se é necesario algún hardware ou software adicional, deberá indicarse.
+Para utilizar nuestra aplicación web, los usuarios necesitarán:
 
-Para operar coa nosa aplicación web, os usuarios necesitarán:
+- Un navegador web actualizado, como Google Chrome, Mozilla Firefox o Microsoft Edge.
+- Una conexión a internet estable.
 
-- Un navegador web actualizado, como Google Chrome, Mozilla Firefox ou Microsoft Edge.
-- Unha conexión a internet estable.
-
-Non se require ningún hardware ou software adicional para utilizar a nosa aplicación.
+No se requiere ningún hardware o software adicional para utilizar nuestra aplicación.
 
 ## 5- Normativa
 
-> *EXPLICACION* Investigarase que normativa vixente afecta ao desenvolvemento do proxecto e de que maneira. O proxecto debe adaptarse ás esixencias legais dos territorios onde vai operar.
-> 
-> Pola natureza dos sistema de información, unha lei que se vai a ter que mencionar de forma obrigatoria é la [Ley Orgánica 3/2018, de 5 de diciembre, de Protección de Datos Personales y garantía de los derechos digitales (LOPDPGDD)](https://www.boe.es/buscar/act.php?id=BOE-A-2018-16673). O ámbito da LOPDPGDD é nacional. Se a aplicación está pensada para operar a nivel europeo, tamén se debe facer referencia á [General Data Protection Regulation (GDPR)](https://eur-lex.europa.eu/eli/reg/2016/679/oj). Na documentación debe afirmarse que o proxecto cumpre coa normativa vixente.
->
-> Para cumplir a LOPDPGDD e/ou GDPR debe ter un apartado na web onde se indique quen é a persoa responsable do tratamento dos datos e para que fins se van utilizar. Habitualmente esta información estructúrase nos seguintes apartados:
->
-> - Aviso legal.
-> - Política de privacidade.
-> - Política de cookies.
->
-> É acosenllable ver [exemplos de webs](https://www.spotify.com/es/legal/privacy-policy/) que conteñan textos legais referenciando a LOPDPGDD ou GDPR.
+- Aviso legal: Debe incluir información sobre la identidad del responsable del tratamiento de los datos y los fines para los que se van a utilizar los datos personales.
+- Política de privacidad: Debe explicar cómo se recogen, almacenan y utilizan los datos personales de los usuarios, así como sus derechos en relación con la protección de datos.
+- Política de cookies: Debe informar sobre el uso de cookies en nuestra aplicación y obtener el consentimiento de los usuarios para su uso.
 
-Para cumprir coa normativa vixente, o noso proxecto debe adaptarse á [Ley Orgánica 3/2018, de 5 de diciembre, de Protección de Datos Personales y garantía de los derechos digitales (LOPDPGDD)](https://www.boe.es/buscar/act.php?id=BOE-A-2018-16673) e, se aplicable, á [General Data Protection Regulation (GDPR)](https://eur-lex.europa.eu/eli/reg/2016/679/oj). Na nosa aplicación web, debemos incluír os seguintes apartados:
+## 6- Mejoras futuras
 
-- Aviso legal: Debe incluír información sobre a identidade do responsable do tratamento dos datos e os fins para os que se van utilizar os datos persoais.
-- Política de privacidade: Debe explicar como se recollen, almacenan e utilizan os datos persoais dos usuarios, así como os seus dereitos en relación coa protección de datos.
-- Política de cookies: Debe informar sobre o uso de cookies na nosa aplicación e obter o consentimento dos usuarios para o seu uso.
+> *EXPLICACIÓN* Es posible que nuestro proyecto se centre en resolver un problema concreto que se podrá ampliar en el futuro con nuevas funcionalidades, nuevas interfaces, etc.
 
-## 6- Melloras futuras
-
-> *EXPLICACION* É posible que o noso proxecto se centre en resolver un problema concreto que se poderá ampliar no futuro con novas funcionalidades, novas interfaces, etc.
-
-- Ampliación de xogos: Engadir novos minixogos á plataforma para ofrecer máis variedade e entretemento aos usuarios.
-- Integración de redes sociais: Permitir que os usuarios compartan as súas puntuacións directamente nas súas contas de redes sociais, como Facebook ou Twitter.
-- Modo multixogador: Implementar a posibilidade de xogar en liña con outros usuarios en tempo real.
-- Sistema de logros: Engadir un sistema de logros ou desafíos para motivar aos usuarios a xogar máis e alcanzar obxectivos específicos.
-- Personalización de perfil: Permitir que os usuarios personalicen a aparencia do seu perfil, como a foto de perfil ou o tema de cores.
-- Soporte para dispositivos móbiles: Adaptar a aplicación para que sexa compatible e teña unha boa experiencia de usuario en dispositivos móbiles, como smartphones e tablets.
-- Integración de pagamentos: Permitir que os usuarios realicen pagamentos dentro da aplicación para adquirir melloras ou vantaxes.
-- Localización: Traducir a aplicación a diferentes idiomas para alcanzar un público máis amplo.
+- Ampliación de juegos: Añadir nuevos minijuegos a la plataforma para ofrecer más variedad y entretenimiento a los usuarios.
+- Integración de redes sociales: Permitir que los usuarios compartan sus puntuaciones directamente en sus cuentas de redes sociales, como Facebook o Twitter.
+- Sistema de logros: Añadir un sistema de logros o desafíos para motivar a los usuarios a jugar más y alcanzar objetivos específicos.
+- Personalización de perfil: Permitir que los usuarios personalicen la apariencia de su perfil, como la foto de perfil o el tema de colores.
+- Integración de pagos: Permitir que los usuarios realicen pagos dentro de la aplicación para adquirir a través de una wallet las criptomonedas de la web.
+- Localización: Traducir la aplicación, que actualmente está en inglés por globalizar la página, a diferentes idiomas para alcanzar un público más amplio.
