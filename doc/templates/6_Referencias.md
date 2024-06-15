@@ -10,6 +10,12 @@
 
 ## 1- Sitios web de documentación técnica
 
+- [Documentacion de cakephp](https://cakephp.org/)
+- [Documentacion de JavaScript](https://developer.mozilla.org/es/docs/Web/JavaScript)
+- [Documentacion de PHP](https://www.php.net/manual/es/index.php)
+- [Documentacion de HTML](https://developer.mozilla.org/es/docs/Web/HTML)
+- [Documentacion de CSS](https://developer.mozilla.org/es/docs/Web/CSS)
+
 ## 2- Fontes de interes
 
 ## 3- Sitios oficiais do software utilizado
