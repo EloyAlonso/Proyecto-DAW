@@ -3,9 +3,9 @@
 - [FASE DE IMPLANTACIÓN](#fase-de-implantación)
   - [1- Manual técnico](#1--manual-técnico)
     - [1.1- Instalación](#11--instalación)
-    - [1.2- Administración do sistema](#12--administración-do-sistema)
+    - [1.2- Administración do sistema](#12--administración-del-sistema)
   - [2- Manual de usuario](#2--manual-de-usuario)
-  - [3- Melloras futuras](#3--melloras-futuras)
+  - [3- Mejoras futuras](#3--mejoras-futuras)
 
 ## 1- Manual técnico
 
@@ -43,7 +43,7 @@ Para descargar el código del proyecto y continuar su desarrollo, sigue estos pa
   ```
 Con estos pasos, habrás descargado el código del proyecto, levantado los contenedores necesarios y instalado las dependencias. Ahora puedes comenzar a desarrollar en tu IDE. ¡Buena suerte!
 
-### 1.2- Administración do sistema
+### 1.2- Administración del sistema
 
 Para implementar la base de datos en el adminer que usa el puerto 8080 y conectarte con localhost, sigue estos pasos:
 
@@ -93,7 +93,7 @@ Una vez iniciada sesión, podrás acceder a las siguientes opciones adicionales 
 Recuerda que estas opciones estarán disponibles una vez que hayas iniciado sesión en la aplicación.
 
 
-## 3- Melloras futuras
+## 3- Mejoras futuras
 
 En este apartado se incluirán las posibilidades de mejora de la aplicación en el futuro. Algunas ideas para mejorar la aplicación podrían ser:
 
