@@ -14,17 +14,17 @@
 
 La arquitectura de este proyecto sería algo así:
 
-![Diagrama de arquitectura](img\DiagramaGeneral.png)
+![Diagrama de arquitectura](../img/DiagramaGeneral.png)
 
 En este caso especifícamente con estas tecnologías:
 
-![Diagrama de arquitectura](img\DiagramaEspecifico.png)
+![Diagrama de arquitectura](..\img\DiagramaEspecifico.png)
 
 ## 2- Casos de uso
 
 El usuario podrá registrarse, iniciar sesión, jugar y guardar sus puntuaciones, editar usuario y realizar pagos.
 
-![Diagrama de casos de uso](img\Diagrama-de-caso-de-uso-OneTap.jpeg)
+![Diagrama de casos de uso](..\img\Diagrama-de-caso-de-uso-OneTap.jpeg)
 
 ## 3- Diagrama de Base de Datos
 
@@ -42,7 +42,7 @@ Las relaciones entre las tablas son las siguientes:
 
 Estas relaciones permiten asociar los puntajes de los usuarios con los juegos y usuarios correspondientes.
 
-![Diagrama de Base de Datos](img\ModeloRelacionalBBDD_OneTap.png)
+![Diagrama de Base de Datos](..\img\ModeloRelacionalBBDD_OneTap.png)
 
 
 ## 4- Diseño de interfaz de usuarios
