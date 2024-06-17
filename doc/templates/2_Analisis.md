@@ -55,8 +55,6 @@ No se requiere ningún hardware o software adicional para utilizar nuestra aplic
 
 ## 6- Mejoras futuras
 
-> *EXPLICACIÓN* Es posible que nuestro proyecto se centre en resolver un problema concreto que se podrá ampliar en el futuro con nuevas funcionalidades, nuevas interfaces, etc.
-
 - Ampliación de juegos: Añadir nuevos minijuegos a la plataforma para ofrecer más variedad y entretenimiento a los usuarios.
 - Integración de redes sociales: Permitir que los usuarios compartan sus puntuaciones directamente en sus cuentas de redes sociales, como Facebook o Twitter.
 - Sistema de logros: Añadir un sistema de logros o desafíos para motivar a los usuarios a jugar más y alcanzar objetivos específicos.

@@ -45,8 +45,6 @@ Para utilizar la aplicación, los usuarios deben navegar hasta la página princi
 
 ## Sobre el autor
 
-> *EXPLICACIÓN*: Realiza una breve descripción de quién eres (perfil profesional), tus puntos fuertes, o tecnologías que más dominas... la motivación del proyecto, teniendo en cuenta sobre todo un nicho de mercado sin explotar... *No más de 200 palabras*. Indica la forma fiable de contactar contigo durante el proceso de creación del proyecto.
-
 Sobre mí, soy un desarrollador web apasionado con fuertes habilidades en JavaScript y PHP. Tengo una gran experiencia en desarrollo frontend y backend, creando soluciones eficientes y escalables. Mi motivación para este proyecto viene de mi pasión por los juegos y la programación. Quiero crear un espacio donde los jugadores puedan competir y divertirse, al mismo tiempo que mejoran sus habilidades y que sean recompensados por su esfuerzo. Creo que este proyecto puede llenar un nicho de mercado para juegos web competitivos y accesibles. Durante el proceso de creación de este proyecto, puedes contactarme a través de mi correo electrónico (eloypro12@gmail.com) o a través del sistema de mensajes de GitHub.
 
 ## Licencia

@@ -6,13 +6,7 @@
   - [3- Innovación](#3--innovación)
   - [4- Pruebas](#4--pruebas)
 
-> Este documento explica como se debe realizar a fase de codificación e probas.
-
 ## 1- Codificación
-
-> Crea unha carpeta no teu repositorio e sube o código frecuentemente.
->
-> Mentres se vai codificando a aplicación, iranse atopando problemas e haberá que ir modificando aspectos do deseño. Estes cambios tamén se deben recoller na documentación.
 
 El proyecto se encuentra comprimido en un archivo .zip en la carpeta "src/" del proyecto.
 
