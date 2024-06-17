@@ -39,6 +39,8 @@ Estos contenedores se comunicarán entre sí para proporcionar un entorno de des
 
 Una vez que los contenedores estén en marcha, puedes acceder a la aplicación web navegando a `http://localhost` en tu navegador.
 
+O si quieres acceder directamente a la página en funcionamiento, sin configurar localmente la página: `onetap.ddns.net`
+
 ## Uso
 
 Para utilizar la aplicación, los usuarios deben navegar hasta la página principal donde verán una lista de juegos disponibles. Pueden elegir un juego para jugar y, una vez que el juego se carga, podrán jugarlo. Si el usuario está registrado e inició sesión, sus puntuaciones serán guardadas y podrán ver sus puntuaciones máximas en cada juego. También podrán ver una tabla de clasificación global (aparecerán los 3 mejores de cada juego) para cada juego, donde podrán competir con las puntuaciones máximas de otros usuarios. Si el usuario no está registrado o no ha iniciado sesión, aún podrán jugar a los juegos, pero sus puntuaciones no serán guardadas.
