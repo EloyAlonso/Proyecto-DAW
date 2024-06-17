@@ -1,28 +1,24 @@
-# Anteproxecto fin de ciclo
+# Anteproyecto fin de ciclo
 
-- [Anteproxecto fin de ciclo](#anteproxecto-fin-de-ciclo)
-  - [1- Descrición do proxecto](#1--descrición-do-proxecto)
+- [Anteproyecto fin de ciclo](#anteproyecto-fin-de-ciclo)
+  - [1- Descripción del proyecto](#1--descripción-del-proyecto)
   - [2- Empresa](#2--empresa)
     - [2.1- Idea de negocio](#21--idea-de-negocio)
-    - [2.2- Xustificación da idea](#22--xustificación-da-idea)
+    - [2.2- Justificación de la idea](#22--justificación-de-la-idea)
     - [2.3- Segmento de clientes](#23--segmento-de-clientes)
     - [2.4- Competencia](#24--competencia)
-    - [2.5- Proposta de valor](#25--proposta-de-valor)
-    - [2.6- Forma xurídica](#26--forma-xurídica)
-    - [2.7- Investimentos](#27--investimentos)
-      - [2.7.1- Custos](#271--custos)
+    - [2.5- Propuesta de valor](#25--propuesta-de-valor)
+    - [2.6- Forma jurídica](#26--forma-jurídica)
+    - [2.7- Inversiones](#27--inversiones)
+      - [2.7.1- Costos](#271--costos)
       - [2.7.2- Ingresos](#272--ingresos)
-    - [2.8- Viabilidade](#28--viabilidade)
-      - [2.8.1- Viabilidade técnica](#281--viabilidade-técnica)
-      - [2.8.2 - Viabilidade económica](#282---viabilidade-económica)
+    - [2.8- Viabilidad](#28--viabilidad)
+      - [2.8.1- Viabilidad técnica](#281--viabilidad-técnica)
+      - [2.8.2 - Viabilidad económica](#282---viabilidad-económica)
       - [2.8.3- Conclusión](#283--conclusión)
-  - [3- Requirimentos técnicos](#3--requirimentos-técnicos)
+  - [3- Requerimientos técnicos](#3--requerimientos-técnicos)
   - [4- Planificación](#4--planificación)
 
-
-> *EXPLICACIÓN*: Este documento será a páxina de explicación de en que consiste o teu proxecto. Coida a súa redacción con todo ou teu mimo. Elimina posteriormente todas as lineas "EXPLICACIÓN" cando creas finalizada a súa redacción.
-> Podes acompañar á redacción deste ficheiro con imaxes, pero non abuses deles.
-> Explica da mellor forma posible de en que consiste o proxecto é que ferramentas e linguaxes de programación empregarás.
 
 Nuestro proyecto consiste en la creación de una plataforma web de minijuegos (los minijuegos serán propios de la página). El propósito principal es proporcionar un espacio donde cualquier persona pueda jugar a estos minijuegos. Además, si los usuarios deciden registrarse, podrán competir por las puntuaciones más altas.
 
@@ -36,13 +32,11 @@ En cuanto a las tecnologías, decidimos usar PHP para el backend y JavaScript pa
 
 ## 2- Empresa
 
-> _EXPLICACIÓN_: Neste apartado desenvolveredes todo o referente os módulos de Empresa e iniciativa emprendedora e de FOL.
-
 ### 2.1- Idea de negocio
 
 Nuestro producto central es una plataforma web de minijuegos, donde los usuarios pueden jugar a una variedad de juegos divertidos y adictivos. El valor añadido de nuestra plataforma es la posibilidad de competir por las puntuaciones más altas y ganar recompensas. Además, ofrecemos la opción de realizar pagos en criptomonedas a los mejores jugadores, lo que aumenta la emoción y la competitividad del juego. Nuestra plataforma también proporcionará una experiencia social, permitiendo a los usuarios interactuar entre sí a través tablas de clasificación. En resumen, nuestro producto ofrece entretenimiento, competición y recompensas, todo en un solo lugar.
 
-### 2.2- Xustificación da idea
+### 2.2- Justificación de la idea
 
 Nuestro proyecto surge de la necesidad de proporcionar un espacio en línea donde las personas puedan disfrutar de minijuegos divertidos y competir por las puntuaciones más altas. Actualmente existen varias plataformas de juegos en línea, pero nuestra propuesta se diferencia al ofrecer una experiencia más competitiva y social, además de la posibilidad de realizar pagos en criptomonedas a los mejores jugadores. 
 
@@ -51,15 +45,6 @@ Según datos del INE, el sector de los videojuegos ha experimentado un crecimien
 Por lo tanto, consideramos que nuestro proyecto se dirige a un segmento de mercado desabastecido, ofreciendo una propuesta de valor única y satisfaciendo la necesidad de entretenimiento y competición en línea. Con nuestra plataforma, los usuarios podrán disfrutar de una amplia variedad de minijuegos, competir por las puntuaciones más altas y ser recompensados por sus logros. 
 
 En resumen, nuestra idea de negocio busca cubrir la necesidad de entretenimiento y competición en línea, ofreciendo una experiencia más competitiva y social que las plataformas existentes.
-
-### 2.3- Segmento de clientes
-
-> _EXPLICACIÓN_: Neste apartado debes indicar a quen irá dirixido o negocio, os potenciales clientes, respostando as seguinte pregunta: ¿A quen está dirixido?
->
-> Debes:
->
-> - Indicar o segmento ou segmentos cos rasgos principais e cuantificar o mercado.
-> - E se é o caso, diferenciar entre usuario e cliente.
 
 ### 2.3- Segmento de clientes
 
@@ -88,7 +73,7 @@ En cuanto a los productos/servicios sustitutivos, existen otras formas de entret
 
 En términos de posicionamiento, cada empresa tiene su propia estrategia y enfoque para atraer y retener a los usuarios. Algunas se centran en ofrecer una amplia selección de juegos, otras en promociones y descuentos, y otras en características sociales y competitivas. La clave para destacarse en este mercado competitivo es ofrecer una propuesta de valor única y satisfacer las necesidades y deseos de los usuarios.
 
-### 2.5- Proposta de valor
+### 2.5- Propuesta de valor
 
 Nuestra plataforma de minijuegos se diferencia de la competencia al ofrecer una experiencia única y completa para los usuarios. Algunas de las mejoras y valor que aportamos al mercado son:
 
@@ -100,16 +85,11 @@ Nuestra plataforma de minijuegos se diferencia de la competencia al ofrecer una 
 
 Los usuarios elegirán nuestra plataforma frente a la competencia porque les ofrece una experiencia de juego más competitiva, social y emocionante. Además, la posibilidad de ganar recompensas en criptomonedas y la amplia variedad de juegos disponibles les brinda un valor adicional. En resumen, nuestra propuesta de valor se basa en ofrecer entretenimiento, competición y recompensas, todo en un solo lugar. 
 
-### 2.6- Forma xurídica
+### 2.6- Forma jurídica
 
 Nuestra elección para la forma jurídica de nuestro negocio sería una Sociedad de Responsabilidad Limitada (SL). Esta forma nos brinda la ventaja de limitar la responsabilidad de los socios, lo que significa que su responsabilidad se limita al capital aportado. Además, nos permite tener una estructura organizativa más formal y establecer acuerdos claros sobre la gestión y reparto de beneficios.
 
-
-### 2.7- Investimentos
-
-> _EXPLICACIÓN_: Neste apartado idicaremos o investimentos, aínda que sexa, só unha enumeración de todo o que necesitan (locais, infraestruturas, equipos, suministros, mobiliario...) cuantificando cada elemento.
-
-### 2.7- Investimentos
+### 2.7- Inversiones
 
 Los principales gastos asociados a nuestro proyecto incluyen:
 
@@ -120,7 +100,7 @@ Los principales gastos asociados a nuestro proyecto incluyen:
 
 Es importante realizar un análisis detallado de los costos asociados a cada uno de estos elementos para asegurar una correcta planificación financiera del proyecto.
 
-#### 2.7.1- Custos
+#### 2.7.1- Costes
 
 En cuanto a los costos, podemos diferenciar entre costos fijos y variables:
 
@@ -161,9 +141,9 @@ En cuanto a los ingresos, es necesario realizar una previsión de ventas y estab
 
 Es importante realizar un análisis de mercado y considerar factores como la competencia, la demanda y las tendencias del mercado para establecer una estrategia de precios adecuada y maximizar los ingresos del proyecto.
 
-### 2.8- Viabilidade
+### 2.8- Viabilidad
 
-#### 2.8.1- Viabilidade técnica
+#### 2.8.1- Viabilidad técnica
 
 Para evaluar la viabilidad técnica del proyecto, es necesario considerar los recursos humanos y los medios de producción necesarios. En cuanto a los recursos humanos, se deben asegurar la disponibilidad de personal con las habilidades y conocimientos necesarios para desarrollar la plataforma web de minijuegos, crear la memecoin y realizar las tareas de mantenimiento y actualización.
 
@@ -173,7 +153,7 @@ Es importante realizar un análisis exhaustivo para identificar posibles impedim
 
 En resumen, es fundamental asegurar la disponibilidad de los recursos humanos y los medios de producción necesarios, así como identificar y abordar cualquier impedimento técnico que pueda surgir durante el desarrollo del proyecto.
 
-#### 2.8.2 - Viabilidade económica
+#### 2.8.2 - Viabilidad económica
 
 Para evaluar la viabilidad económica del proyecto, es necesario analizar los costos e inversiones involucrados. A continuación, se detallan los principales aspectos económicos a considerar:
 
@@ -233,37 +213,26 @@ Para desarrollar el proyecto, necesitarás los siguientes recursos y tecnología
 
 ## 4- Planificación
 
-> *EXPLICACIÓN*: Inclúe un calendario co tempo estimado a adicar a cada fase do proxecto.
->
-> O proxecto estará formado polas seguintes fases:
->
-> - Estudo preliminar
-> - Análise
-> - Deseño
-> - Codificación e probas (debe ser a fase máis longa).
->
-> Debe facerse un calendario ou un diagrama de Gantt indicando, para cada fase, a data de inicio, a súa duración e breve descrición das tarefas a realizar.
+A continuación, presentamos un calendario estimado para cada fase del proyecto:
 
-A continuación, presentamos un calendario estimado para cada fase do proxecto:
-
-- **Estudo preliminar:** 
-  - Data de inicio: 1 de marzo
+- **Estudio preliminar:** 
+  - Fecha de inicio: 1 de marzo
   - Duración: 2 semanas
-  - Tarefas: Investigación de mercado, definición de objetivos e alcance do proxecto, identificación de tecnoloxías e ferramentas necesarias.
+  - Tareas: Investigación de mercado, definición de objetivos y alcance del proyecto, identificación de tecnologías y herramientas necesarias.
 
-- **Análise:** 
-  - Data de inicio: 15 de marzo
+- **Análisis:** 
+  - Fecha de inicio: 15 de marzo
   - Duración: 3 semanas
-  - Tarefas: Análisis de requisitos, definición de funcionalidades, deseño da arquitectura do sistema.
+  - Tareas: Análisis de requisitos, definición de funcionalidades, diseño de la arquitectura del sistema.
 
-- **Deseño:** 
-  - Data de inicio: 5 de abril
+- **Diseño:** 
+  - Fecha de inicio: 5 de abril
   - Duración: 3 semanas
-  - Tarefas: Deseño de interfaces de usuario, deseño de base de datos, deseño de componentes e módulos do sistema.
+  - Tareas: Diseño de interfaces de usuario, diseño de base de datos, diseño de componentes y módulos del sistema.
 
-- **Codificación e probas:** 
-  - Data de inicio: 26 de abril
+- **Codificación y pruebas:** 
+  - Fecha de inicio: 26 de abril
   - Duración: 8 semanas
-  - Tarefas: Codificación das funcionalidades, pruebas unitarias, pruebas de integración, pruebas de sistema, pruebas de aceptación.
+  - Tareas: Codificación de las funcionalidades, pruebas unitarias, pruebas de integración, pruebas de sistema, pruebas de aceptación.
 
-Por favor, teña en cota que estas fechas son estimacións e poden variar dependendo de diversos factores como a complexidade das tareas, os imprevistos que poidan surxir, entre outros.
+Por favor, ten en cuenta que estas fechas son estimaciones y pueden variar dependiendo de diversos factores como la complejidad de las tareas, imprevistos que puedan surgir, entre otros.

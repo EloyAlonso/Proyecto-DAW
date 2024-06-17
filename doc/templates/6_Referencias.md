@@ -2,9 +2,9 @@
 
 - [REFERENCIAS](#referencias)
   - [1- Sitios web de documentación técnica](#1--sitios-web-de-documentación-técnica)
-  - [2- Fontes de interes](#2--fontes-de-interes)
-  - [3- Sitios oficiais do software utilizado](#3--sitios-oficiais-do-software-utilizado)
-  - [4- Normas ou documentos legais](#4--normas-ou-documentos-legais)
+  - [2- Fuentes de interés](#2--fuentes-de-interés)
+  - [3- Sitios oficiales del software utilizado](#3--sitios-oficiales-del-software-utilizado)
+  - [4- Normas o documentos legales](#4--normas-o-documentos-legales)
 
 > *EXPLICACIÓN:* Neste apartado incluirás todas as referencias empregadas: webs, libros, etc. Este anexo débese ir cubrindo a medida que se vaia desenvolvendo o proxecto.
 
@@ -16,12 +16,12 @@
 - [Documentacion de HTML](https://developer.mozilla.org/es/docs/Web/HTML)
 - [Documentacion de CSS](https://developer.mozilla.org/es/docs/Web/CSS)
 
-## 2- Fontes de interes
+## 2- Fuentes de interés
 
 - [Plantillas CSS](https://html5up.net/)
 
-## 3- Sitios oficiais do software utilizado
+## 3- Sitios oficiales del software utilizado
 
 - [Documentacion de cakephp](https://cakephp.org/)
 
-## 4- Normas ou documentos legais
+## 4- Normas o documentos legales

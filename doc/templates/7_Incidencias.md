@@ -1,7 +1,7 @@
-# INCIDENCIAS E TAREFAS
-- [INCIDENCIAS E TAREFAS](#incidencias-e-tarefas)
+# INCIDENCIAS E TAREAS
+- [INCIDENCIAS E TAREAS](#incidencias-e-tareas)
   - [1- Incidencias](#1--incidencias)
-  - [2- Tarefas](#2--tarefas)
+  - [2- Tareas](#2--tareas)
 
 ## 1- Incidencias
 
@@ -17,7 +17,7 @@ Durante la carga de la página ha habido mucho aprendizaje con el framework de c
 
 La página web se ha intentado iniciar con docker pero debido a diferentes incidencias con el docker desktop se descartó y se empezó con XAMPP. Debido a un problema de electricidad durante la fase final de desarrollo el XAMPP se corrompió y tras no encontrar solución al problema se volvió a intentar a ejecutar la app web a través de contenedores con docker, que esta vez si ha sido exitosa.
 
-## 2- Tarefas
+## 2- Tareas
 
 Aquí se documenta todas las tareas realizadas durante la creación del proyecto:
 

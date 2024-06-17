@@ -1,4 +1,4 @@
-# Requerimientos do sistema
+# Requerimientos del sistema
 
 - [Requerimientos del sistema](#requerimientos-del-sistema)
   - [1- Descripción General](#1--descripción-general)
@@ -7,8 +7,6 @@
   - [4- Entorno operacional](#4--entorno-operacional)
   - [5- Normativa](#5--normativa)
   - [6- Mejoras futuras](#6--mejoras-futuras)
-
-> *EXPLICACIÓN*: Este documento describe los requerimientos para "nombre del proyecto" especificando qué funcionalidades ofrecerá y cómo.
 
 ## 1- Descripción General
 

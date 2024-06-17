@@ -3,7 +3,7 @@
 - [FASE DE IMPLANTACIÓN](#fase-de-implantación)
   - [1- Manual técnico](#1--manual-técnico)
     - [1.1- Instalación](#11--instalación)
-    - [1.2- Administración do sistema](#12--administración-del-sistema)
+    - [1.2- Administración del sistema](#12--administración-del-sistema)
   - [2- Manual de usuario](#2--manual-de-usuario)
   - [3- Mejoras futuras](#3--mejoras-futuras)
 
