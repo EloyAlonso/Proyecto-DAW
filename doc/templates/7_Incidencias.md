@@ -17,6 +17,14 @@ Durante la carga de la página ha habido mucho aprendizaje con el framework de c
 
 La página web se ha intentado iniciar con docker pero debido a diferentes incidencias con el docker desktop se descartó y se empezó con XAMPP. Debido a un problema de electricidad durante la fase final de desarrollo el XAMPP se corrompió y tras no encontrar solución al problema se volvió a intentar a ejecutar la app web a través de contenedores con docker, que esta vez si ha sido exitosa.
 
+Tras una revisión se han encontrado ciertos problemas de lógica y se ha modificado el funcionamiento de varias cosas en la página. Por ejemplo el register y login, que ahora si son ventanas modales totalmente funcionales, también desde dispositivos móviles se puede uno registrar y loguear pero estas ya no serían ventanas modales.
+
+Faltaba el title de la página.
+
+En TopTaps no se podían diferenciar los usuarios ya que es posible cambiarse el nombre, se ha añadido un identificador único el cual va por # y lo sigue un número, que será el identificador que tiene ese usuario según se registró.
+
+La página estaba en diferentes idiomas así que se ha traducido todo al castellano.
+
 ## 2- Tareas
 
 Aquí se documenta todas las tareas realizadas durante la creación del proyecto:

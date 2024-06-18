@@ -60,4 +60,4 @@ No se requiere ningún hardware o software adicional para utilizar nuestra aplic
 - Sistema de logros: Añadir un sistema de logros o desafíos para motivar a los usuarios a jugar más y alcanzar objetivos específicos.
 - Personalización de perfil: Permitir que los usuarios personalicen la apariencia de su perfil, como la foto de perfil o el tema de colores.
 - Integración de pagos: Permitir que los usuarios realicen pagos dentro de la aplicación para adquirir a través de una wallet las criptomonedas de la web.
-- Localización: Traducir la aplicación, que actualmente está en inglés por globalizar la página, a diferentes idiomas para alcanzar un público más amplio.
+- Localización: Traducir la aplicación a diferentes idiomas para alcanzar un público más amplio.
