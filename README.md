@@ -23,21 +23,51 @@ Este proyecto es una página web de minijuegos, un lugar donde los jugadores pue
 
 ## Instalación / Puesta en marcha
 
-Para poner en marcha la aplicación, necesitarás tener instalado Docker y Docker Compose en tu sistema. Una vez instalados, sigue los siguientes pasos:
+Para descargar el código del proyecto y continuar su desarrollo, sigue estos pasos:
 
-1. Clona el repositorio del proyecto en tu sistema local usando Git.
-2. Navega hasta el directorio del proyecto.
-3. Ejecuta el comando `docker-compose up` en el terminal. Este comando construirá e iniciará los contenedores necesarios para la aplicación.
+1. Asegúrate de tener Docker Compose instalado en tu sistema. Puedes encontrar instrucciones de instalación en la documentación oficial de Docker.
 
-Los contenedores que se crearán son los siguientes:
+2. Abre tu IDE preferido, como Visual Studio Code, y navega hasta el directorio del proyecto.
 
-- Un contenedor para la base de datos, que utilizará una imagen de MySQL.
-- Un contenedor para el servidor web, que utilizará una imagen de Apache.
-- Un contenedor para adminer, que utilizará una imagen de adminer.
+3. Ejecuta el siguiente comando en la terminal para construir y levantar los contenedores:
 
-Estos contenedores se comunicarán entre sí para proporcionar un entorno de desarrollo completo para la aplicación.
+  ```
+  docker-compose up --build -d
+  ```
+
+4. Una vez que los contenedores estén en funcionamiento, ejecuta el siguiente comando para acceder al contenedor del servidor web:
+
+  ```
+  docker compose exec web bash
+  ```
+
+5. Dentro del contenedor, ejecuta el siguiente comando para instalar las dependencias del proyecto:
+
+  ```
+  composer install
+  ```
+
+6. Sal del contenedor con ´exit´ y ejecuta los siguientes comandos para reiniciar el proyecto:
+
+  ```
+  docker compose down
+  docker compose up -d
+  ```
+Con estos pasos, habrás descargado el código del proyecto, levantado los contenedores necesarios y instalado las dependencias.
 
 Una vez que los contenedores estén en marcha, puedes acceder a la aplicación web navegando a `http://localhost` en tu navegador.
+
+Pero también se debe de importar la base de datos con adminer:
+
+1. Abre tu navegador web y navega hasta `http://localhost:8080`.
+
+2. Ingresa las siguientes credenciales de acceso a la base de datos:
+
+  - Servidor: mysql
+  - Usuario: toptap
+  - Contraseña: abc123.
+
+3. Realiza las copias de seguridad del sistema y de la base de datos según sea necesario (en `config/sql` tienes el archivo `wingamesweb.sql` que puedes importar directamente).
 
 O si quieres acceder directamente a la página en funcionamiento, sin configurar localmente la página: `onetap.ddns.net`
 
